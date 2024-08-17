@@ -169,6 +169,7 @@ Once the spidering is finished, you’ll see all the nodes found for the web app
 
 
 ZAP AJAX Spidering 
+
 More modern apps use JavaScript, and the traditional ZAP spider doesn't really understand how to crawl these properly. 
 
 This is where the AJAX spider comes in. This spider launches a browser, clicks on things, and even fills out forms, giving you a more comprehensive web app overview. It tries to imitate a user's behavior while interacting with the application.
