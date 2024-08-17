@@ -95,6 +95,8 @@ We will be choosing “No, I do not want to persist this session at this session
 <img width="471" alt="image" src="https://github.com/user-attachments/assets/8059d635-c823-4f89-b5f5-a16603585d84">
 
  (9) ZAP Overview
+
+ 
  Before we start using ZAP, let’s examine the main interface and show where some of the key features are located. The interface has a lot of information, ZAP does many things.
 
  <img width="463" alt="image" src="https://github.com/user-attachments/assets/0d3bef74-9dd3-45c8-a290-8fba4d4c99b1">
