@@ -304,7 +304,7 @@ Here are the reports:
 
 Key Findings
 
--- Vulnerabilities found are as follows: 3 High, 4 medium, 3 low and 5 informational. The scan revealed no high-severity vulnerabilities.
+-- Vulnerabilities found are as follows: 3 High, 4 medium, 3 low and 5 informational. The scan revealed  high severity vulnerabilities, medium, low and informational ones.
 
 -- High to low severity issues: Several informational-severity issues were detected, SQL Injection, and Cross-Site Scripting (XSS) and so on. 15 alerts were triggered, it is essential to review these findings and implement necessary security measures.
 
