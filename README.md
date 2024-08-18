@@ -301,13 +301,21 @@ Here are the reports:
 <img width="458" alt="image" src="https://github.com/user-attachments/assets/b3636cbb-2666-4f60-8fd0-03defae3e718">
 
 
+Key Findings
+
+No critical vulnerabilities were found. The scan revealed no high-severity vulnerabilities.
+
+Medium severity issues: Several medium-severity issues were detected, such as Path Traversal, SQL Injection, and Cross-Site Scripting (XSS). Although 15 alerts were triggered, it is essential to review these findings and implement necessary security measures.
 
 
-By systematically addressing each of these areas, you can significantly improve the security posture of your application and reduce the likelihood of vulnerabilities being exploited.
+Next Steps
 
-Conclusion
+Review and Fix: Investigate the vulnerabilities reported by ZAP and apply appropriate fixes.
 
-The above explained in details; conducting practical web application security using ZAP.
+Re-Test: Run another security scan to ensure that the vulnerabilities have been addressed.
+
+Continuous Monitoring: Regularly test your application for vulnerabilities, especially after making updates or changes.
+
 
 
 
