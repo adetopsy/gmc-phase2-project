@@ -301,21 +301,23 @@ Here are the reports:
 <img width="458" alt="image" src="https://github.com/user-attachments/assets/b3636cbb-2666-4f60-8fd0-03defae3e718">
 
 
+
 Key Findings
 
---  No critical vulnerabilities were found. The scan revealed no high-severity vulnerabilities.
+-- Vulnerabilities found are as follows: 3 High, 4 medium, 3 low and 5 informational. The scan revealed no high-severity vulnerabilities.
 
---  Medium severity issues: Several medium-severity issues were detected, such as Path Traversal, SQL Injection, and Cross-Site Scripting (XSS). Although 15 alerts were 
-    triggered, it is essential to review these findings and implement necessary security measures.
+-- High to low severity issues: Several informational-severity issues were detected, SQL Injection, and Cross-Site Scripting (XSS) and so on. 15 alerts were triggered, it is essential to review these findings and implement necessary security measures.
 
 
 Next Steps
 
-(1)  Review and Fix: Investigate the vulnerabilities reported by ZAP and apply appropriate fixes.
+(1) Review and Fix: Investigate the vulnerabilities reported by ZAP and apply appropriate fixes.
 
-(2)  Re-Test: Run another security scan to ensure that the vulnerabilities have been addressed.
+(2) Re-Test: Run another security scan to ensure that the vulnerabilities have been addressed.
 
-(3)  Continuous Monitoring: Regularly test your application for vulnerabilities, especially after making updates or changes.
+(3) Continuous Monitoring: Regularly test your application for vulnerabilities, especially after making updates or changes.
+
+
 
 
 
