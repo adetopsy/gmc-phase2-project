@@ -253,6 +253,46 @@ Next click on generate report
 
 Here are the reports:
 
+<img width="455" alt="image" src="https://github.com/user-attachments/assets/7b575e25-96f2-4692-a80d-ed11b15e715e">
+
+<img width="477" alt="image" src="https://github.com/user-attachments/assets/9f23e253-34d6-452e-815f-b6c17bdc09bd">
+
+<img width="391" alt="image" src="https://github.com/user-attachments/assets/0c0999bd-d00b-4f4c-8b79-5e82426d09a5">
+
+<img width="408" alt="image" src="https://github.com/user-attachments/assets/0c7fa304-0e21-4e90-a54c-a75b17bb9380">
+
+
+
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/cd8a844f-b089-4211-9b69-c9aa7950f771">
+
+<img width="401" alt="image" src="https://github.com/user-attachments/assets/2d4b542f-ba33-4be2-9e41-ed113a260abb">
+
+<img width="403" alt="image" src="https://github.com/user-attachments/assets/1a760d31-c5ca-43e8-b5c3-10ac247ff50d">
+
+<img width="392" alt="image" src="https://github.com/user-attachments/assets/c9bb9bc0-83e4-40f4-91c2-6768174dadc2">
+
+
+<img width="370" alt="image" src="https://github.com/user-attachments/assets/88a17dee-6e59-4a94-a124-4120bda26e7f">
+
+
+<img width="352" alt="image" src="https://github.com/user-attachments/assets/a62a9066-10a6-4591-b0ee-65bf9463cd13">
+
+<img width="439" alt="image" src="https://github.com/user-attachments/assets/1bf705fc-95ca-467c-90f8-8f02cb136406">
+
+<img width="406" alt="image" src="https://github.com/user-attachments/assets/b6e3b9b0-aab0-4977-aa50-bcde016ee0fd">
+
+<img width="342" alt="image" src="https://github.com/user-attachments/assets/9e4a596a-1bd5-4612-b3e0-2c4014f1ad94">
+
+<img width="347" alt="image" src="https://github.com/user-attachments/assets/3dd2fc67-49c7-464b-ac22-8f464517fe32">
+
+<img width="326" alt="image" src="https://github.com/user-attachments/assets/541f9e09-022d-4ef2-8e35-2e38207d1286">
+
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/fb4d1599-bb40-4039-875b-18319b8ddd1c">
+
+
+<img width="366" alt="image" src="https://github.com/user-attachments/assets/d2a6d1c6-470b-436b-8a03-e3fe272cb8f7">
+
+
 
 
 
